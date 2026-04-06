@@ -3,7 +3,6 @@
 Everyone gets 5 dice and a cup. First person to start the bid is randomly chosen.
 
 ## Bidding
-
 - Increase face and/or count
 - Loser bids the next round
 - Aces are wild

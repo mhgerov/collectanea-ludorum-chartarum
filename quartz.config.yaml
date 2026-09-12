@@ -137,8 +137,10 @@ plugins:
     enabled: true
   - source: "@quartz-community/og-image"
     enabled: true
+  # GitHub Pages project site: served from mhgerov.github.io/collectanea-ludorum-chartarum,
+  # so no custom domain. The emitter would write public/CNAME = mhgerov.github.io.
   - source: "@quartz-community/cname"
-    enabled: true
+    enabled: false
   - source: "@quartz-community/canvas-page"
     enabled: true
   - source: "@quartz-community/content-page"
